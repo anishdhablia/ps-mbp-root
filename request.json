@@ -1,0 +1,29 @@
+{
+   "show":1,
+   "groups":[
+      {
+         "label":"A",
+         "seatCount":"10",
+         "allocation":"full",
+         "type":"Silver"
+      },
+      {
+         "label":"B",
+         "seatCount":"10",
+         "allocation":"full",
+         "type":"Silver"
+      },
+      {
+         "label":"C",
+         "seatCount":"10",
+         "allocation":"full",
+         "type":"Silver"
+      },
+      {
+         "label":"D",
+         "seatCount":"10",
+         "allocation":"full",
+         "type":"Gold"
+      }
+   ]
+}
